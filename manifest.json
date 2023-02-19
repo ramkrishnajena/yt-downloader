@@ -1,0 +1,19 @@
+{
+    "name": "YTT DOWNLOAD",
+    "version": "1.0.0",
+    "description": "Best Chrome Extension to DOWNLOAD",
+    "permissions": [
+        "activeTab",
+        "tabs"
+       ],
+    "manifest_version": 3,
+    "author": "Sampurna Chapagain",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "YT Video Download"
+    },
+    "icons": { "128": "logo.png"
+           }
+   
+}
+
